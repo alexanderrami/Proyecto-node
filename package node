@@ -1,0 +1,25 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "hola":"Este es mi primer proyecto con node en el mejor bootcampo de programacion hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderrami/Proyecto-node.git"
+  },
+  "keywords": [
+    "proyecto",
+    "node"
+  ],
+  "author": "alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderrami/Proyecto-node/issues"
+    
+  },
+  "homepage": "https://github.com/alexanderrami/Proyecto-node#readme"
+}
